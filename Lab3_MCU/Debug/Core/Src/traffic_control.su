@@ -1,0 +1,9 @@
+../Core/Src/traffic_control.c:10:6:setAllLeds	8	static
+../Core/Src/traffic_control.c:20:6:blinkingLeds	8	static
+../Core/Src/traffic_control.c:30:6:offAllLeds	8	static
+../Core/Src/traffic_control.c:40:6:setRed1	8	static
+../Core/Src/traffic_control.c:45:6:setYellow1	8	static
+../Core/Src/traffic_control.c:50:6:setGreen1	8	static
+../Core/Src/traffic_control.c:56:6:setRed2	8	static
+../Core/Src/traffic_control.c:61:6:setYellow2	8	static
+../Core/Src/traffic_control.c:66:6:setGreen2	8	static
